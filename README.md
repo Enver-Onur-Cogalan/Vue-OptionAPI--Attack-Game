@@ -3,7 +3,7 @@
 A lightweight **“lifebar scramble”** game running in a single HTML file, using the Vue 3 Option API.
 The goal is simple: Reset the computer to zero with *Attack*, *Heavy Attack* or *Heal*!
 
-![screenshot](<img width="1916" height="539" alt="Image" src="https://github.com/user-attachments/assets/8f8555d5-318b-4215-ac3e-8ef144acb685" />)
+<img width="1916" height="539" alt="Image" src="https://github.com/user-attachments/assets/8f8555d5-318b-4215-ac3e-8ef144acb685" />
 
 ---
 
